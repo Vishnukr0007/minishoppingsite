@@ -1,0 +1,63 @@
+.heading{
+    margin-top: 10px;
+}
+#btn1{
+    width: 280px;
+    height:50px;
+    background: black;
+    color: white;
+}
+#btn2{
+    width: 150px;
+    height: 50px;
+}
+#mobile{
+    width: 250px;
+    height: 350px;
+}
+#txt-hver:hover{
+    color: lightblue;
+}
+#img-iphone{
+    width: 500px;
+    height: 500px;
+}
+#post-img{
+    width: 350px;
+    height: 250px;
+}
+.icon-nav{
+    list-style: none;
+    display: flex;
+}
+.sub-txt{
+    margin-left: 20px;
+}
+.sub-btn{
+    background: lightskyblue;
+    border-style: none;
+    width: 180px;
+    height: 47px;
+    color: white;
+}
+.sub-btn:hover{
+background: black;
+}
+.input-f{
+    width: 280px;
+    height: 47px;
+    border-style: none;
+}
+#insta-img{
+    width: 210px;
+    height: 250px;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    color: lightblue;
+}
+hr{
+    width: 100%;
+}
